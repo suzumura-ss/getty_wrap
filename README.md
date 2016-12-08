@@ -7,7 +7,7 @@ Make and Install
 ----------------
 
         $ make
-        $ sudo make install # install to /usr/sbin/local
+        $ sudo make install # install to /usr/local/sbin
         
 
 How to use
